@@ -14,7 +14,7 @@ import requests
 
 # Richmond, VA -- change these to your own hometown later and re-run.
 LATITUDE = 37.77
-LONGITUDE = -77.77
+LONGITUDE = -77.99 
 
 
 def get_current_weather(latitude, longitude):
